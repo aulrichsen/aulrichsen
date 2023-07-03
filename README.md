@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aulrichsen
 - 👀 I’m interested in Computer Vision and Deep Learning
-- 🌱 I’m currently studying a PhD Object Tracking and Super Resolution using Operational Nerual Networks.
+- 🌱 I’m currently studying a PhD in Object Tracking and Super Resolution using Deep Nerual Networks.
 - 📫 How to reach me: alexander.ulrichsen.2015@uni.strath.ac.uk
 
 <!---
